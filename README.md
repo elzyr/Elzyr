@@ -5,8 +5,6 @@
   </div>
 </div>
 
-<br>
-
 <h2 align="center">Languages & Tools</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,spring,java,python,git,c,mysql,nodejs,javascript" />
