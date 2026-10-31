@@ -1,16 +1,14 @@
 <div align="center">
   <img height="25" align="right" src="https://komarev.com/ghpvc/?username=elzyr&color=blue" alt="Profile views"/>
-  <div style="background: linear-gradient(135deg, #ff6a00 0%, #ee0979 100%); border-radius: 16px; padding: 32px 24px; margin: 24px 0; color: #fff; box-shadow: 0 4px 24px rgba(0,0,0,0.08);">
-    <h1 align="center" style="margin-bottom: 0.5em;">Welcome to my GitHub</h1>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=fff" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elzyr&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=elzyr&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <h2 align="center">Languages & Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,spring,java,python,git,c,mysql,nodejs,javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,python,fastapi" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,git" />
 </div>
